@@ -1,0 +1,2 @@
+query,significant,p_value,term_size,query_size,intersection_size,precision,recall,term_id,source,term_name,effective_domain_size,source_order,parents
+shared_genes,TRUE,0.0390227197826777,8,26,2,0.0769230769230769,0.25,KEGG:00909,KEGG,Sesquiterpenoid and triterpenoid biosynthesis,3869,140,KEGG:00000

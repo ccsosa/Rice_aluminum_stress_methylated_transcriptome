@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_annotation" for="node" attr.name="annotation" attr.type="string"/>
+  <key id="v_RXN" for="node" attr.name="RXN" attr.type="string"/>
+  <key id="v_type" for="node" attr.name="type" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">Os01g0111600</data>
+      <data key="v_annotation">PEBP (phosphatidylethanolamine-binding protein) family protein, Regulation of ABA signaling-mediated seed germination</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">Os02g0157600</data>
+      <data key="v_annotation">Arsenate (As(V)) reductase, Rhodanase-like protein, As(V) tolerance, Control of arsenic (As) accumulation</data>
+      <data key="v_RXN">thiosulfate + hydrogen cyanide -&gt; sulfite + thiocyanate + 2 H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">Os02g0177700</data>
+      <data key="v_annotation">Uncharacterised protein family UPF0497, trans-membrane plant subgroup domain containing protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">Os02g0570400</data>
+      <data key="v_annotation">Diterpene cyclase, Ent-cassa-12, 15-diene synthase, Phytocassane phytoalexins biosynthesis</data>
+      <data key="v_RXN">(-)-ent-copalyl diphosphate -&gt; ent-kaurene + diphosphate // (-)-ent-copalyl diphosphate -&gt; ent-cassa-12,15-diene + diphosphate</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">Os03g0327700</data>
+      <data key="v_annotation">Similar to H0716A07.9 protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">Os04g0288500</data>
+      <data key="v_annotation">Protein kinase, catalytic domain domain containing protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">Os04g0370900</data>
+      <data key="v_annotation">Similar to H0607F01.5 protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">Os04g0401700</data>
+      <data key="v_annotation">Potassium transporter, Potassium mediated growth, Salt tolerance</data>
+      <data key="v_RXN">K+[in] -&gt; K+[out]</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">Os04g0556400</data>
+      <data key="v_annotation">Similar to UDP-glycosyltransferase UGT93B9.</data>
+      <data key="v_RXN">UDP-alpha-D-glucose + cis-zeatin -&gt; cis-zeatin-O-glucoside + UDP + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">Os05g0158600</data>
+      <data key="v_annotation">Similar to OsGA2ox1.</data>
+      <data key="v_RXN">gibberellin A44 (closed lactone form) + 2-oxoglutarate + 2 H+ + dioxygen -&gt; gibberellin A98 + succinate + CO2 // gibberellin A4 + 2-oxoglutarate + dioxygen -&gt; gibberellin A34 + succinate + CO2 // gibberellin A9 + 2-oxoglutarate + dioxygen -&gt; gibberellin A51 + succinate + CO2 // gibberellin A1 + 2-oxoglutarate + dioxygen -&gt; gibberellin A8 + succinate + CO2 // gibberellin A20 + 2-oxoglutarate + dioxygen -&gt; gibberellin A29 + succinate + CO2</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">Os06g0486900</data>
+      <data key="v_annotation">Similar to Formate dehydrogenase, mitochondrial precursor (EC 1.2.1.2) (NAD- dependent formate dehydrogenase) (FDH).</data>
+      <data key="v_RXN">formate + NAD+ &lt;--&gt; CO2 + NADH</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">Os07g0471683</data>
+      <data key="v_annotation">Hypothetical conserved gene.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">Os08g0112900</data>
+      <data key="v_annotation">Lipase, GDSL domain containing protein.</data>
+      <data key="v_RXN">tributyrin + H2O -&gt; 1,2-dibutyrin + butanoate + H+ // a triacyl-sn-glycerol + H2O -&gt; a diacyl-sn-glycerol + a fatty acid + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">Os08g0401800</data>
+      <data key="v_annotation">Similar to Phospholipase D.</data>
+      <data key="v_RXN">a phosphatidylcholine + H2O -&gt; a phosphatidate + choline + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">Os08g0415600</data>
+      <data key="v_annotation">Similar to ubiquitin-protein ligase.</data>
+      <data key="v_RXN">an [E2 ubiquitin-conjugating enzyme]-S-ubiquitinyl-L-cysteine + a [protein]-L-lysine -&gt; an [E2 ubiquitin-conjugating enzyme]-L-cysteine + a [protein]-N6-monoubiquitinyl-L-lysine + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">Os09g0564600</data>
+      <data key="v_annotation">Peptidase C1A, papain family protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">Os10g0481300</data>
+      <data key="v_annotation">Similar to Glutathione S-transferase, N-terminal domain containing protein, expressed.</data>
+      <data key="v_RXN">RX + glutathione -&gt; a glutathione-S-conjugate + HX</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">Os11g0249000</data>
+      <data key="v_annotation">Typical CC-NB-LRR-type protein, Mediation of both SA and NPR1-independent defense signaling pathways, Defense response</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">Os12g0133100</data>
+      <data key="v_annotation">Major facilitator superfamily protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">Os12g0448900</data>
+      <data key="v_annotation">Fatty acid alpha-dioxygenase family, Enzyme that oxygenates fatty acids into 2R-hydroperoxides</data>
+      <data key="v_RXN">a fatty acid + dioxygen -&gt; a (2R)-2-hydroperoxyfatty acid</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">Os12g0486900</data>
+      <data key="v_annotation">Similar to Protein kinase domain containing protein, expressed.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">Methylation_direction_CHH-Hypo</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">Expression_Down</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">Methylation_direction_CG-Hyper</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">Expression_Up</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">Methylation_direction_CHH-Hyper</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">Methylation_direction_CHG-Hypo</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">Methylation_direction_CG-Hypo</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <edge source="n0" target="n21">
+    </edge>
+    <edge source="n0" target="n22">
+    </edge>
+    <edge source="n1" target="n24">
+    </edge>
+    <edge source="n1" target="n25">
+    </edge>
+    <edge source="n2" target="n21">
+    </edge>
+    <edge source="n2" target="n22">
+    </edge>
+    <edge source="n3" target="n24">
+    </edge>
+    <edge source="n3" target="n26">
+    </edge>
+    <edge source="n4" target="n22">
+    </edge>
+    <edge source="n4" target="n25">
+    </edge>
+    <edge source="n5" target="n21">
+    </edge>
+    <edge source="n5" target="n24">
+    </edge>
+    <edge source="n6" target="n22">
+    </edge>
+    <edge source="n6" target="n26">
+    </edge>
+    <edge source="n7" target="n24">
+    </edge>
+    <edge source="n7" target="n25">
+    </edge>
+    <edge source="n8" target="n24">
+    </edge>
+    <edge source="n8" target="n21">
+    </edge>
+    <edge source="n9" target="n27">
+    </edge>
+    <edge source="n9" target="n24">
+    </edge>
+    <edge source="n10" target="n24">
+    </edge>
+    <edge source="n10" target="n27">
+    </edge>
+    <edge source="n11" target="n21">
+    </edge>
+    <edge source="n11" target="n22">
+    </edge>
+    <edge source="n12" target="n21">
+    </edge>
+    <edge source="n12" target="n24">
+    </edge>
+    <edge source="n13" target="n21">
+    </edge>
+    <edge source="n13" target="n24">
+    </edge>
+    <edge source="n14" target="n21">
+    </edge>
+    <edge source="n14" target="n22">
+    </edge>
+    <edge source="n15" target="n21">
+    </edge>
+    <edge source="n15" target="n24">
+    </edge>
+    <edge source="n16" target="n21">
+    </edge>
+    <edge source="n16" target="n22">
+    </edge>
+    <edge source="n17" target="n21">
+    </edge>
+    <edge source="n17" target="n24">
+    </edge>
+    <edge source="n18" target="n21">
+    </edge>
+    <edge source="n18" target="n24">
+    </edge>
+    <edge source="n19" target="n21">
+    </edge>
+    <edge source="n20" target="n22">
+    </edge>
+    <edge source="n19" target="n24">
+    </edge>
+    <edge source="n20" target="n27">
+    </edge>
+  </graph>
+</graphml>

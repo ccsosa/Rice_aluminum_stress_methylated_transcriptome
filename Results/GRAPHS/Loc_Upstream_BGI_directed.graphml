@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_annotation" for="node" attr.name="annotation" attr.type="string"/>
+  <key id="v_RXN" for="node" attr.name="RXN" attr.type="string"/>
+  <key id="v_type" for="node" attr.name="type" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">Os01g0144500</data>
+      <data key="v_annotation">Ubiquitin fusion degradation protein UFD1 domain containing protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">Os01g0216000</data>
+      <data key="v_annotation">Lipase, GDSL domain containing protein.</data>
+      <data key="v_RXN">benzyl benzoate + H2O -&gt; benzoate + benzyl alcohol + H+ // an acetyl ester + H2O -&gt; an alcohol + acetate + H+ // a carboxylic ester + H2O -&gt; an alcohol + a carboxylate + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">Os01g0237500</data>
+      <data key="v_annotation">NmrA-like family protein.</data>
+      <data key="v_RXN">eugenol + acetate + NADP+ &lt;- coniferyl acetate + NADPH // eugenol + a carboxylate + NADP+ = a coniferyl ester + NADPH</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">Os01g0349000</data>
+      <data key="v_annotation">Conserved hypothetical protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">Os01g0369700</data>
+      <data key="v_annotation">Similar to Glutathione S-transferase GST 8 (EC 2.5.1.18).</data>
+      <data key="v_RXN">RX + glutathione -&gt; a glutathione-S-conjugate + HX</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">Os01g0548750</data>
+      <data key="v_annotation">Gnk2-homologous domain domain containing protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">Os01g0566500</data>
+      <data key="v_annotation">Similar to Dioxygenase RAMOSUS1.</data>
+      <data key="v_RXN">9-cis-10&apos;-apo-beta-carotenal + 2 dioxygen -&gt; carlactone + (2E,4E,6E)-7-hydroxy-4-methylhepta-2,4,6-trienal</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">Os01g0902800</data>
+      <data key="v_annotation">Similar to cDNA, clone: J090081K18, full insert sequence.</data>
+      <data key="v_RXN">protein[in] + ATP + H2O -&gt; protein[out] + ADP + phosphate + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">Os01g0940700</data>
+      <data key="v_annotation">Similar to Glucan endo-1, 3-beta-glucosidase GII precursor (EC 3.2.1.39) ((1-&gt;3)- beta-glucan endohydrolase GII) ((1-&gt;3)-beta-glucanase isoenzyme GII) (Beta-1, 3-endoglucanase GII).</data>
+      <data key="v_RXN">1,3-beta-D-glucan(n) + H2O -&gt; 1,3-beta-D-glucan(n-1) + D-glucopyranose</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">Os01g0972000</data>
+      <data key="v_annotation">Zinc finger, RING/FYVE/PHD-type domain containing protein.</data>
+      <data key="v_RXN">an [E2 ubiquitin-conjugating enzyme]-S-ubiquitinyl-L-cysteine + a [protein]-L-lysine -&gt; an [E2 ubiquitin-conjugating enzyme]-L-cysteine + a [protein]-N6-monoubiquitinyl-L-lysine + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">Os02g0114300</data>
+      <data key="v_annotation">Hypothetical protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">Os02g0178100</data>
+      <data key="v_annotation">Similar to CONSTANS-like protein CO6.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">Os02g0190300</data>
+      <data key="v_annotation">P-glycoprotein homologue.</data>
+      <data key="v_RXN">xenobiotic[in] + ATP + H2O -&gt; xenobiotic[out] + ADP + phosphate</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">Os02g0571100</data>
+      <data key="v_annotation">Ent-copalyl diphosphate synthase, Defense against both fungal pathogen and bacterial pathogen, Biosynthesis of phytoalexin</data>
+      <data key="v_RXN">geranylgeranyl diphosphate -&gt; (-)-ent-copalyl diphosphate</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">Os02g0584800</data>
+      <data key="v_annotation">Copper metallochaperone heavy metal-associated plant protein, Negative regulation of host immunity, Resistance to rice root-knot nematode (Nipponbare: susceptible)</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">Os02g0757100</data>
+      <data key="v_annotation">Similar to Phi-1 protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">Os03g0103300</data>
+      <data key="v_annotation">Hybrid proline- or glycine-rich protein, Controll of low-temperature germinability, Pre-harvest sprouting resistance</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">Os03g0258900</data>
+      <data key="v_annotation">Galactose oxidase, beta-propeller domain containing protein.</data>
+      <data key="v_RXN">D-galactopyranose + dioxygen -&gt; D-galacto-hexodialdose + hydrogen peroxide</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">Os03g0279700</data>
+      <data key="v_annotation">Similar to ZPT2-12.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">Os03g0305100</data>
+      <data key="v_annotation">Similar to AMP-binding protein.</data>
+      <data key="v_RXN">coenzyme A + propanoate + ATP -&gt; propanoyl-CoA + AMP + diphosphate // 18-hydroxyoleate + coenzyme A + ATP -&gt; 18-hydroxyoleoyl-CoA + AMP + diphosphate // oleate + coenzyme A + ATP -&gt; oleoyl-CoA + AMP + diphosphate // palmitate + coenzyme A + ATP -&gt; palmitoyl-CoA + AMP + diphosphate // 18-hydroxystearate + coenzyme A + ATP -&gt; 18-hydroxystearoyl-CoA + AMP + diphosphate // stearate + coenzyme A + ATP -&gt; stearoyl-CoA + AMP + diphosphate // 16-hydroxypalmitate + coenzyme A + ATP -&gt; 16-hydroxypalmitoyl-CoA + AMP + diphosphate // a long-chain fatty acid + coenzyme A + ATP -&gt; a long-chain fatty acyl-CoA + AMP + diphosphate</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">Os03g0310800</data>
+      <data key="v_annotation">Similar to Hypersensitive reaction associated Ca2+-binding protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">Os03g0571900</data>
+      <data key="v_annotation">Phenolics efflux transporter, Essential for the utilization of apoplasmic precipitated iron in the stele</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">Os03g0603200</data>
+      <data key="v_annotation">NA</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">Os04g0142400</data>
+      <data key="v_annotation">Conserved hypothetical protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">Os04g0338100</data>
+      <data key="v_annotation">Similar to IN2-2 protein.</data>
+      <data key="v_RXN">raucaffrinoline + NADP+ &lt;- perakine + NADPH + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">Os04g0414700</data>
+      <data key="v_annotation">Photosystem I PsaO domain containing protein.</data>
+      <data key="v_RXN">oxidized plastocyanin[chloroplast thylakoid lumen] + reduced ferredoxin [iron-sulfur] cluster[chloroplast stroma] &lt;- hnu + reduced plastocyanin[chloroplast thylakoid lumen] + oxidized ferredoxin [iron-sulfur] cluster[chloroplast stroma]</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">Os04g0447700</data>
+      <data key="v_annotation">Similar to Polyketide reductase.</data>
+      <data key="v_RXN">2&apos;-deoxymugineate + NAD(P)+ &lt;- 3&apos;&apos;-deamino-3&apos;&apos;-oxonicotianamine + NAD(P)H + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">Os04g0523812</data>
+      <data key="v_annotation">Conserved hypothetical protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">Os05g0113300</data>
+      <data key="v_annotation">Cation/H+ exchanger domain containing protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">Os05g0181300</data>
+      <data key="v_annotation">Conserved hypothetical protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">Os05g0205400</data>
+      <data key="v_annotation">Conserved hypothetical protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">Os05g0319100</data>
+      <data key="v_annotation">Putative mannan endo-1, 4-beta-mannosidase 5.</data>
+      <data key="v_RXN">a (1,4)-beta-D-mannan + H2O -&gt; 2 a beta-(1,4)-mannan oligosaccharide</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">Os05g0424700</data>
+      <data key="v_annotation">High-affinity copper transport protein, Modulation of copper redistribution</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">Os05g0526200</data>
+      <data key="v_annotation">Similar to Calcium homeostasis regulator CHoR1.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">Os05g0526900</data>
+      <data key="v_annotation">UDP-glucuronosyl/UDP-glucosyltransferase family protein.</data>
+      <data key="v_RXN">luteolinidin + UDP-alpha-D-glucose -&gt; luteolinidin 5-O-beta-D-glucoside + UDP + 2 H+ // apigeninidin + UDP-alpha-D-glucose -&gt; apigeninidin 5-O-beta-D-glucoside + UDP + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">Os05g0527100</data>
+      <data key="v_annotation">UDP-glucosyltransferase, Cold tolerance (wild rice)</data>
+      <data key="v_RXN">luteolinidin + UDP-alpha-D-glucose -&gt; luteolinidin 5-O-beta-D-glucoside + UDP + 2 H+ // apigeninidin + UDP-alpha-D-glucose -&gt; apigeninidin 5-O-beta-D-glucoside + UDP + H+ // UDP-alpha-D-glucose + 2-cis-abscisate -&gt; beta-D-glucopyranosyl abscisate + UDP</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">Os06g0146800</data>
+      <data key="v_annotation">Conserved hypothetical protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">Os06g0215600</data>
+      <data key="v_annotation">Similar to Oxo-phytodienoic acid reductase.</data>
+      <data key="v_RXN">(9S,13S,15Z)-12-oxo-10,11-dihydrophyto-15-enoate + NADP+ &lt;- (9S,13S,15Z)-12-oxophyto-10,15-dienoate + NADPH + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">Os06g0486900</data>
+      <data key="v_annotation">Similar to Formate dehydrogenase, mitochondrial precursor (EC 1.2.1.2) (NAD- dependent formate dehydrogenase) (FDH).</data>
+      <data key="v_RXN">formate + NAD+ &lt;--&gt; CO2 + NADH</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">Os06g0507300</data>
+      <data key="v_annotation">Similar to GAMYB-binding protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">Os06g0643700</data>
+      <data key="v_annotation">Plant progestin and adipoQ receptor (PAQR)-like sensor, Defense against multiple pathogens, Positive regulation of rice bacterial blight resistance and rice sheath blight resistance</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">Os07g0100200</data>
+      <data key="v_annotation">Pyridoxal phosphate synthase 1.1, Vitamin B6 biosynthesis</data>
+      <data key="v_RXN">aldehydo-D-ribose 5-phosphate + D-glyceraldehyde 3-phosphate + L-glutamine -&gt; L-glutamate + pyridoxal 5&apos;-phosphate + phosphate + H+ + 3 H2O // L-glutamine + H2O -&gt; L-glutamate + ammonia + H+ // pyridoxal 5&amp;prime;-phosphate synthase (glutamine hydrolyzing)</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">Os07g0106900</data>
+      <data key="v_annotation">Plant disease resistance response protein family protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">Os07g0170000</data>
+      <data key="v_annotation">Similar to Brn1-like protein.</data>
+      <data key="v_RXN">(E)-2-pentenal + NADPH + H+ -&gt; (E)-2-pentenol + NADP+ // (E)-2-hexenol + NADP+ &lt;--&gt; (E)-2-hexenal + NADPH + H+ // (3Z)-hexenal + NADPH + H+ -&gt; (3Z)-hex-3-en-1-ol + NADP+ // hydroxyacetone + NADP+ &lt;- methylglyoxal + NADPH + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">Os07g0410300</data>
+      <data key="v_annotation">Conserved hypothetical protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">Os07g0502900</data>
+      <data key="v_annotation">UDP-glucuronosyl/UDP-glucosyltransferase family protein.</data>
+      <data key="v_RXN">UDP-alpha-D-glucose + myricetin -&gt; myricetin 3-O-beta-D-glucoside + UDP // UDP-alpha-D-glucose + a 2-acylphloroglucinol -&gt; a 2-acylphloroglucinol 1-O-beta-D-glucoside + UDP + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">Os07g0558100</data>
+      <data key="v_annotation">R2R3-MYB transcription factor 71</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">Os07g0635150</data>
+      <data key="v_annotation">Hypothetical gene.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">Os07g0638400</data>
+      <data key="v_annotation">1 Cys-peroxiredoxin B, Root development</data>
+      <data key="v_RXN">reduced thioredoxin + an organic hydroperoxide -&gt; oxidized thioredoxin + an alcohol + H2O // [2-Cys peroxiredoxin] with reduced L-cysteine residues + an organic hydroperoxide -&gt; [2-Cys peroxiredoxin] with hydroxylated L-cysteine + an alcohol // [2-Cys peroxiredoxin] with hydroxylated L-cysteine -&gt; [2-Cys peroxiredoxin] with a disulfide bond + H2O // reduced thioredoxin + [2-Cys peroxiredoxin] with a disulfide bond -&gt; oxidized thioredoxin + [2-Cys peroxiredoxin] with reduced L-cysteine residues // reduced thioredoxin + an organic hydroperoxide -&gt; oxidized thioredoxin + an alcohol + H2O // an organic hydroperoxide + a [1-Cys-peroxiredoxin]-L-cysteine -&gt; a [1-Cys-peroxiredoxin]-S-hydroxy-L-cysteine + an alcohol // a [1-Cys-peroxiredoxin]-S-hydroxy-L-cysteine + reduced thioredoxin -&gt; a [1-Cys-peroxiredoxin]-L-cysteine + oxidized thioredoxin + H2O</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">Os08g0338500</data>
+      <data key="v_annotation">pectin methylesterase inhibitor 30</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">Os08g0480000</data>
+      <data key="v_annotation">Multi antimicrobial extrusion protein MatE family protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">Os08g0531000</data>
+      <data key="v_annotation">Nucleotide pyrophosphatase/phosphodiesterase, Negative effect on plant growth and starch accumulation</data>
+      <data key="v_RXN">a phosphate monoester + H2O -&gt; an alcohol + phosphate // ITP + H2O -&gt; IMP + diphosphate + H+ // dUTP + H2O -&gt; dUMP + diphosphate + H+ // dCTP + H2O -&gt; dCMP + diphosphate + H+ // XTP + H2O = XMP + diphosphate + H+ // dITP + H2O = dIMP + diphosphate + H+ // UTP + H2O -&gt; UMP + diphosphate + H+ // ATP + H2O -&gt; AMP + diphosphate + H+ // a nucleoside triphosphate + H2O -&gt; a nucleoside 5&apos;-monophosphate + diphosphate + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">Os08g0538600</data>
+      <data key="v_annotation">Stress up-regulated Nod 19 family protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">Os09g0400400</data>
+      <data key="v_annotation">Cinnamyl alcohol dehydrogenase (EC 1.1.1.195).</data>
+      <data key="v_RXN">cinnamyl alcohol + NADP+ &lt;--&gt; cinnamaldehyde + NADPH + H+ // coniferyl alcohol + NADP+ &lt;--&gt; coniferaldehyde + NADPH + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">Os09g0458800</data>
+      <data key="v_annotation">EF hand domain containing protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">Os09g0482900</data>
+      <data key="v_annotation">UDP-glucuronosyl/UDP-glucosyltransferase family protein.</data>
+      <data key="v_RXN">luteolinidin + UDP-alpha-D-glucose -&gt; luteolinidin 5-O-beta-D-glucoside + UDP + 2 H+ // apigeninidin + UDP-alpha-D-glucose -&gt; apigeninidin 5-O-beta-D-glucoside + UDP + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">Os09g0530300</data>
+      <data key="v_annotation">Cytochrome P450 family protein.</data>
+      <data key="v_RXN">(-)-deoxypodophyllotoxin + reduced [NADPH-hemoprotein reductase] + dioxygen -&gt; (-)-4&apos;-demethyl-deoxypodophyllotoxin + formaldehyde + oxidized [NADPH-hemoprotein reductase] + H2O</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">Os09g0564600</data>
+      <data key="v_annotation">Peptidase C1A, papain family protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">Os10g0345100</data>
+      <data key="v_annotation">Multi antimicrobial extrusion protein MatE family protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">Os10g0496900</data>
+      <data key="v_annotation">Similar to Protochlorophyllide reductase B, chloroplastic.</data>
+      <data key="v_RXN">chlorophyllide a + NADP+ &lt;- protochlorophyllide a + hnu + NADPH + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">Os10g0513900</data>
+      <data key="v_annotation">Cytochrome P450 family protein.</data>
+      <data key="v_RXN">9,10-epoxystearate + reduced [NADPH-hemoprotein reductase] + dioxygen -&gt; 9,10-epoxy-18-hydroxystearate + oxidized [NADPH-hemoprotein reductase] + H2O // oleate + reduced [NADPH-hemoprotein reductase] + dioxygen -&gt; 18-hydroxyoleate + oxidized [NADPH-hemoprotein reductase] + H2O // (9R,10S)-dihydroxystearate + reduced [NADPH-hemoprotein reductase] + dioxygen -&gt; 9,10,18-trihydroxystearate + oxidized [NADPH-hemoprotein reductase] + H2O // stearate + reduced [NADPH-hemoprotein reductase] + dioxygen -&gt; 18-hydroxystearate + oxidized [NADPH-hemoprotein reductase] + H2O // palmitate + reduced [NADPH-hemoprotein reductase] + dioxygen -&gt; 16-hydroxypalmitate + oxidized [NADPH-hemoprotein reductase] + H2O // a long-chain fatty acid + reduced [NADPH-hemoprotein reductase] + dioxygen -&gt; an omega-hydroxy long-chain fatty acid + oxidized [NADPH-hemoprotein reductase] + H2O</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">Os10g0554200</data>
+      <data key="v_annotation">TGF-beta receptor, type I/II extracellular region family protein.</data>
+      <data key="v_RXN">nitrate[out] + ATP + H2O -&gt; nitrate[in] + ADP + phosphate + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">Os10g0576900</data>
+      <data key="v_annotation">NAD(P)-binding domain containing protein.</data>
+      <data key="v_RXN">cinnamaldehyde + coenzyme A + NADP+ &lt;- (E)-cinnamoyl-CoA + NADPH + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">Os10g0580400</data>
+      <data key="v_annotation">High-affinity urea transporter, Effective urea acquisition and utilisation, Effective use of low external urea as a N source</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">Os11g0210201</data>
+      <data key="v_annotation">Conserved hypothetical protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">Os11g0521000</data>
+      <data key="v_annotation">Lipase, GDSL domain containing protein.</data>
+      <data key="v_RXN">17-O-acetylnorajmaline + H2O -&gt; norajmaline + acetate + H+ // 17-O-acetylajmaline + H2O -&gt; ajmaline + acetate + H+</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">Os11g0655900</data>
+      <data key="v_annotation">Thioredoxin fold domain containing protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">Os11g0701600</data>
+      <data key="v_annotation">Glycoside hydrolase, family 18, catalytic domain domain containing protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">Os12g0133100</data>
+      <data key="v_annotation">Major facilitator superfamily protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">Os12g0459100</data>
+      <data key="v_annotation">Similar to Transferase family protein.</data>
+      <data key="v_RXN">benzyl alcohol + benzoyl-CoA -&gt; benzyl benzoate + coenzyme A</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">Os12g0626200</data>
+      <data key="v_annotation">Auxin responsive SAUR protein family protein.</data>
+      <data key="v_RXN">NA</data>
+      <data key="v_type">gene</data>
+    </node>
+    <node id="n71">
+      <data key="v_name">Methylation_direction_CHH-Hypo</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n72">
+      <data key="v_name">Expression_Up</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n73">
+      <data key="v_name">Methylation_direction_CHH-Hyper</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n74">
+      <data key="v_name">Methylation_direction_CHG-Hypo</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n75">
+      <data key="v_name">Expression_Down</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n76">
+      <data key="v_name">Methylation_direction_CHG-Hyper</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <node id="n77">
+      <data key="v_name">Methylation_direction_CG-Hyper</data>
+      <data key="v_annotation"></data>
+      <data key="v_RXN"></data>
+      <data key="v_type">feature</data>
+    </node>
+    <edge source="n0" target="n72">
+    </edge>
+    <edge source="n0" target="n73">
+    </edge>
+    <edge source="n1" target="n72">
+    </edge>
+    <edge source="n1" target="n74">
+    </edge>
+    <edge source="n2" target="n71">
+    </edge>
+    <edge source="n2" target="n72">
+    </edge>
+    <edge source="n3" target="n71">
+    </edge>
+    <edge source="n3" target="n75">
+    </edge>
+    <edge source="n4" target="n71">
+    </edge>
+    <edge source="n4" target="n75">
+    </edge>
+    <edge source="n5" target="n74">
+    </edge>
+    <edge source="n5" target="n75">
+    </edge>
+    <edge source="n6" target="n71">
+    </edge>
+    <edge source="n6" target="n72">
+    </edge>
+    <edge source="n7" target="n71">
+    </edge>
+    <edge source="n7" target="n72">
+    </edge>
+    <edge source="n8" target="n71">
+    </edge>
+    <edge source="n8" target="n75">
+    </edge>
+    <edge source="n9" target="n71">
+    </edge>
+    <edge source="n9" target="n75">
+    </edge>
+    <edge source="n10" target="n71">
+    </edge>
+    <edge source="n10" target="n72">
+    </edge>
+    <edge source="n11" target="n71">
+    </edge>
+    <edge source="n11" target="n72">
+    </edge>
+    <edge source="n12" target="n71">
+    </edge>
+    <edge source="n12" target="n75">
+    </edge>
+    <edge source="n13" target="n72">
+    </edge>
+    <edge source="n13" target="n74">
+    </edge>
+    <edge source="n14" target="n71">
+    </edge>
+    <edge source="n14" target="n72">
+    </edge>
+    <edge source="n15" target="n71">
+    </edge>
+    <edge source="n15" target="n75">
+    </edge>
+    <edge source="n16" target="n75">
+    </edge>
+    <edge source="n16" target="n71">
+    </edge>
+    <edge source="n17" target="n74">
+    </edge>
+    <edge source="n17" target="n75">
+    </edge>
+    <edge source="n18" target="n71">
+    </edge>
+    <edge source="n18" target="n72">
+    </edge>
+    <edge source="n19" target="n71">
+    </edge>
+    <edge source="n19" target="n72">
+    </edge>
+    <edge source="n20" target="n72">
+    </edge>
+    <edge source="n20" target="n71">
+    </edge>
+    <edge source="n21" target="n72">
+    </edge>
+    <edge source="n21" target="n76">
+    </edge>
+    <edge source="n22" target="n72">
+    </edge>
+    <edge source="n22" target="n77">
+    </edge>
+    <edge source="n23" target="n72">
+    </edge>
+    <edge source="n23" target="n76">
+    </edge>
+    <edge source="n24" target="n75">
+    </edge>
+    <edge source="n24" target="n71">
+    </edge>
+    <edge source="n25" target="n74">
+    </edge>
+    <edge source="n25" target="n72">
+    </edge>
+    <edge source="n26" target="n75">
+    </edge>
+    <edge source="n26" target="n74">
+    </edge>
+    <edge source="n27" target="n71">
+    </edge>
+    <edge source="n27" target="n75">
+    </edge>
+    <edge source="n28" target="n72">
+    </edge>
+    <edge source="n28" target="n77">
+    </edge>
+    <edge source="n29" target="n75">
+    </edge>
+    <edge source="n29" target="n73">
+    </edge>
+    <edge source="n30" target="n71">
+    </edge>
+    <edge source="n30" target="n72">
+    </edge>
+    <edge source="n31" target="n71">
+    </edge>
+    <edge source="n31" target="n72">
+    </edge>
+    <edge source="n32" target="n71">
+    </edge>
+    <edge source="n32" target="n72">
+    </edge>
+    <edge source="n33" target="n71">
+    </edge>
+    <edge source="n33" target="n75">
+    </edge>
+    <edge source="n34" target="n72">
+    </edge>
+    <edge source="n34" target="n74">
+    </edge>
+    <edge source="n35" target="n71">
+    </edge>
+    <edge source="n35" target="n72">
+    </edge>
+    <edge source="n36" target="n71">
+    </edge>
+    <edge source="n36" target="n72">
+    </edge>
+    <edge source="n37" target="n72">
+    </edge>
+    <edge source="n37" target="n71">
+    </edge>
+    <edge source="n38" target="n72">
+    </edge>
+    <edge source="n39" target="n71">
+    </edge>
+    <edge source="n39" target="n75">
+    </edge>
+    <edge source="n40" target="n71">
+    </edge>
+    <edge source="n40" target="n75">
+    </edge>
+    <edge source="n41" target="n71">
+    </edge>
+    <edge source="n41" target="n72">
+    </edge>
+    <edge source="n42" target="n71">
+    </edge>
+    <edge source="n42" target="n75">
+    </edge>
+    <edge source="n43" target="n71">
+    </edge>
+    <edge source="n43" target="n72">
+    </edge>
+    <edge source="n44" target="n75">
+    </edge>
+    <edge source="n44" target="n74">
+    </edge>
+    <edge source="n45" target="n71">
+    </edge>
+    <edge source="n45" target="n72">
+    </edge>
+    <edge source="n46" target="n71">
+    </edge>
+    <edge source="n46" target="n75">
+    </edge>
+    <edge source="n47" target="n71">
+    </edge>
+    <edge source="n47" target="n75">
+    </edge>
+    <edge source="n48" target="n71">
+    </edge>
+    <edge source="n48" target="n75">
+    </edge>
+    <edge source="n49" target="n72">
+    </edge>
+    <edge source="n49" target="n77">
+    </edge>
+    <edge source="n50" target="n71">
+    </edge>
+    <edge source="n50" target="n75">
+    </edge>
+    <edge source="n51" target="n75">
+    </edge>
+    <edge source="n51" target="n74">
+    </edge>
+    <edge source="n52" target="n71">
+    </edge>
+    <edge source="n52" target="n72">
+    </edge>
+    <edge source="n53" target="n71">
+    </edge>
+    <edge source="n53" target="n72">
+    </edge>
+    <edge source="n54" target="n71">
+    </edge>
+    <edge source="n54" target="n72">
+    </edge>
+    <edge source="n55" target="n75">
+    </edge>
+    <edge source="n55" target="n73">
+    </edge>
+    <edge source="n56" target="n72">
+    </edge>
+    <edge source="n56" target="n71">
+    </edge>
+    <edge source="n57" target="n72">
+    </edge>
+    <edge source="n58" target="n71">
+    </edge>
+    <edge source="n58" target="n72">
+    </edge>
+    <edge source="n59" target="n71">
+    </edge>
+    <edge source="n59" target="n72">
+    </edge>
+    <edge source="n60" target="n71">
+    </edge>
+    <edge source="n60" target="n75">
+    </edge>
+    <edge source="n61" target="n71">
+    </edge>
+    <edge source="n61" target="n72">
+    </edge>
+    <edge source="n62" target="n71">
+    </edge>
+    <edge source="n62" target="n72">
+    </edge>
+    <edge source="n63" target="n71">
+    </edge>
+    <edge source="n63" target="n75">
+    </edge>
+    <edge source="n64" target="n71">
+    </edge>
+    <edge source="n64" target="n72">
+    </edge>
+    <edge source="n65" target="n71">
+    </edge>
+    <edge source="n65" target="n72">
+    </edge>
+    <edge source="n66" target="n71">
+    </edge>
+    <edge source="n66" target="n72">
+    </edge>
+    <edge source="n67" target="n71">
+    </edge>
+    <edge source="n67" target="n72">
+    </edge>
+    <edge source="n68" target="n71">
+    </edge>
+    <edge source="n68" target="n72">
+    </edge>
+    <edge source="n69" target="n71">
+    </edge>
+    <edge source="n69" target="n72">
+    </edge>
+    <edge source="n70" target="n71">
+    </edge>
+    <edge source="n70" target="n72">
+    </edge>
+    <edge source="n57" target="n74">
+    </edge>
+    <edge source="n38" target="n76">
+    </edge>
+  </graph>
+</graphml>
