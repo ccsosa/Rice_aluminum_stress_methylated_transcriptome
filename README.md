@@ -10,9 +10,16 @@ This repository consist of R codes to overlap results of Azucena, and BGI rices 
 > [!IMPORTANT]
 > This repo consist of three main folders:
 
+> Scripts:
+- 001_Genes_overlap.R
+- 002_Join_transcriptome_epigenome.R
+- 003_SHARED_GO_ontologies.R
+- 004_key_genes_network.R
+  
 > Inputs:
  - Transcriptome: Differentially expressed genes obtained from DeSEQ2
  - Epigenome_DMRs_annotated: DMR
+   
 > Results:
  - OVERLAPS: overlap of genes, upstream and DMR
  - SHARED_GENES: overlap of DMR of genes, upstream regions and DEG
