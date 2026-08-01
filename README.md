@@ -40,7 +40,10 @@ This repository consist of R codes to overlap results of Azucena, and BGI rices 
 - DMR_CHR_POS_TOTAL.R
 - LFC_mC.R
 
-## Citation (If you use this approach cite as follows:)
+## Citation 
+
+> [!IMPORTANT]
+> If you use this approach cite as follows:
 
 Gallo-Franco JJ, Sosa CC, Johannes F, Ghneim-Herrera T and Quimbaya M (2026) Integrative methylome and transcriptome analysis reveals genotype and sequence context-specific responses to aluminum stress in rice. Front. Plant Sci. 17:1896320. doi: 10.3389/fpls.2026.1896320
 
